@@ -13,6 +13,7 @@ def main():
     """主函数"""
     # 输出Hello World
     print("Hello, World!")
+    print test inline comment
     
     # 输出系统信息
     print(f"Python版本: {sys.version}")
